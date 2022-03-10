@@ -1,0 +1,12 @@
+.coContainer {
+
+    -fx-alignment: CENTER;
+    -fx-background-color: #00ff00;
+}
+
+.coText {
+
+    -fx-font-family: 'monospace';
+    -fx-font-weight: bold;
+    -fx-fill: brown;
+}
